@@ -1,0 +1,1140 @@
+.mediaViewInfo {
+	--web-view-name: PC;
+	--web-view-id: PC;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: PC;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#PC {
+	position: absolute;
+	width: 1280px;
+	height: 3087px;
+	background-color: rgba(1,11,46,1);
+	overflow: hidden;
+	--web-view-name: PC;
+	--web-view-id: PC;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group {
+	position: absolute;
+	width: 102px;
+	height: 14px;
+	left: 589px;
+	top: 3063px;
+	overflow: visible;
+}
+#salon_prism {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Group_k {
+	position: absolute;
+	width: 1280px;
+	height: 401px;
+	left: 0px;
+	top: 84px;
+	overflow: visible;
+}
+#Group_l {
+	position: absolute;
+	width: 54px;
+	height: 18px;
+	left: 613px;
+	top: 383px;
+	overflow: visible;
+}
+#n_ {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1 {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.n_1 {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_o {
+	fill: rgba(255,255,255,1);
+}
+.n_1_o {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 6px;
+	top: 6px;
+}
+#n__p {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 18px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1_q {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.n_1_q {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_r {
+	fill: rgba(204,204,204,1);
+}
+.n_1_r {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 6px;
+	top: 6px;
+}
+#n__s {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 36px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1_t {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+}
+.n_1_t {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_u {
+	fill: rgba(204,204,204,1);
+}
+.n_1_u {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 6px;
+	left: 6px;
+	top: 6px;
+}
+#adam-winger-VjRpkGtS55w-unspla {
+	position: absolute;
+	width: 1280px;
+	height: 375px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_w {
+	position: absolute;
+	width: 1280px;
+	height: 2560px;
+	left: 0px;
+	top: 493px;
+	overflow: visible;
+}
+#Rectangle {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 2560px;
+	left: 0px;
+	top: 0px;
+}
+#CONCEPT {
+	left: 532px;
+	top: 56px;
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(1,11,46,1);
+}
+#Text {
+	left: 270px;
+	top: 134px;
+	position: absolute;
+	overflow: visible;
+	width: 741px;
+	height: 53px;
+	line-height: 25px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: BIZ UDGothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,11,46,1);
+}
+#HAIR_STYLE {
+	left: 508px;
+	top: 237px;
+	position: absolute;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(1,11,46,1);
+}
+#Group_ {
+	position: absolute;
+	width: 910.32px;
+	height: 454px;
+	left: 184.84px;
+	top: 300px;
+	overflow: visible;
+}
+#Rectangle_ {
+	position: absolute;
+	width: 290px;
+	height: 217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_ba {
+	position: absolute;
+	width: 290px;
+	height: 217px;
+	left: 620.32px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_bb {
+	position: absolute;
+	width: 290px;
+	height: 217px;
+	left: 310.32px;
+	top: 237px;
+	overflow: visible;
+}
+#Rectangle_bc {
+	position: absolute;
+	width: 290px;
+	height: 217px;
+	left: 0px;
+	top: 237px;
+	overflow: visible;
+}
+#Rectangle_bd {
+	position: absolute;
+	width: 290px;
+	height: 217px;
+	left: 620.32px;
+	top: 237px;
+	overflow: visible;
+}
+#Rectangle_be {
+	position: absolute;
+	width: 290px;
+	height: 217px;
+	left: 310.32px;
+	top: 0px;
+	overflow: visible;
+}
+#MORE {
+	position: absolute;
+	width: 360px;
+	height: 48px;
+	left: 460px;
+	top: 785px;
+	overflow: visible;
+}
+#Area {
+	fill: rgba(1,11,46,1);
+	stroke: rgba(62,62,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Area {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#MORE_ba {
+	left: 152.41px;
+	top: 16.113px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#MORE_bb {
+	position: absolute;
+	width: 360px;
+	height: 48px;
+	left: 460px;
+	top: 1120px;
+	overflow: visible;
+}
+#Area_bc {
+	fill: rgba(1,11,46,1);
+	stroke: rgba(62,62,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Area_bc {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#MORE_bd {
+	left: 152.41px;
+	top: 16.302px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#NEWS {
+	left: 555px;
+	top: 883.314px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	height: 46px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(1,11,46,1);
+}
+#News {
+	position: absolute;
+	width: 740px;
+	height: 144px;
+	left: 270px;
+	top: 949px;
+	overflow: visible;
+}
+#News_bg {
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_2 {
+	opacity: 0;
+	fill: transparent;
+}
+.n_2 {
+	position: absolute;
+	overflow: visible;
+	width: 740px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_bi {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_bi {
+	overflow: visible;
+	position: absolute;
+	width: 740px;
+	height: 2px;
+	left: 0px;
+	top: 47px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_02042__ {
+	left: 17px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 20px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: BIZ UDPGothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(1,11,46,1);
+}
+#News_bk {
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 0px;
+	top: 96px;
+	overflow: visible;
+}
+#n_2_bl {
+	opacity: 0;
+	fill: transparent;
+}
+.n_2_bl {
+	position: absolute;
+	overflow: visible;
+	width: 740px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_bm {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_bm {
+	overflow: visible;
+	position: absolute;
+	width: 740px;
+	height: 2px;
+	left: 0px;
+	top: 47px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_02041__ {
+	left: 17px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 20px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: BIZ UDPGothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(1,11,46,1);
+}
+#News_bo {
+	position: absolute;
+	width: 740px;
+	height: 48px;
+	left: 0px;
+	top: 48px;
+	overflow: visible;
+}
+#n_2_bp {
+	opacity: 0;
+	fill: transparent;
+}
+.n_2_bp {
+	position: absolute;
+	overflow: visible;
+	width: 740px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#n_1_bq {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1_bq {
+	overflow: visible;
+	position: absolute;
+	width: 740px;
+	height: 2px;
+	left: 0px;
+	top: 47px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_02041__WEB {
+	left: 17px;
+	top: 14px;
+	position: absolute;
+	overflow: visible;
+	width: 224px;
+	height: 20px;
+	line-height: 24px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: BIZ UDPGothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(1,11,46,1);
+}
+#STAFF {
+	left: 555px;
+	top: 1220px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	height: 46px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(1,11,46,1);
+}
+#StaffCard {
+	position: absolute;
+	width: 190px;
+	height: 216px;
+	left: 229.395px;
+	top: 1285.686px;
+	overflow: visible;
+}
+#n_3 {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3 {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+}
+#N825_boushiwokaburudansei_TP_V {
+	position: absolute;
+	width: 114px;
+	height: 114px;
+	left: 38.605px;
+	top: 20.314px;
+	overflow: visible;
+}
+#Hiro {
+	left: 39px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 60px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(1,11,46,1);
+}
+#StaffCard_bx {
+	position: absolute;
+	width: 190px;
+	height: 216px;
+	left: 437.297px;
+	top: 1285.686px;
+	overflow: visible;
+}
+#n_3_by {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3_by {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+}
+#yumikoIMGL7900_TP_V4 {
+	position: absolute;
+	width: 114px;
+	height: 114px;
+	left: 38.703px;
+	top: 20.314px;
+	overflow: visible;
+}
+#Naomi {
+	left: 39px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 60px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(1,11,46,1);
+}
+#StaffCard_b {
+	position: absolute;
+	width: 190px;
+	height: 216px;
+	left: 645.199px;
+	top: 1285.686px;
+	overflow: visible;
+}
+#n_3_b {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3_b {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+}
+#yuka458A5040_TP_V4 {
+	position: absolute;
+	width: 114px;
+	height: 114px;
+	left: 37.801px;
+	top: 20.314px;
+	overflow: visible;
+}
+#Hana {
+	left: 39px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 60px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(1,11,46,1);
+}
+#StaffCard_ca {
+	position: absolute;
+	width: 190px;
+	height: 216px;
+	left: 853.101px;
+	top: 1285.686px;
+	overflow: visible;
+}
+#n_3_ca {
+	fill: transparent;
+	stroke: rgba(1,11,46,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3_ca {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+}
+#TSURU1891A035_TP_V4 {
+	position: absolute;
+	width: 114px;
+	height: 114px;
+	left: 37.899px;
+	top: 20.314px;
+	overflow: visible;
+}
+#Kazuko {
+	left: 39px;
+	top: 156px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	height: 60px;
+	line-height: 20px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(1,11,46,1);
+}
+#MENU {
+	left: 573px;
+	top: 1563px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(1,11,46,1);
+}
+#n_0off {
+	left: 270px;
+	top: 1655px;
+	position: absolute;
+	overflow: visible;
+	width: 741px;
+	height: 26px;
+	line-height: 25px;
+	margin-top: -4.5px;
+	text-align: center;
+	font-family: BIZ UDPGothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,11,46,1);
+}
+#MORE_cb {
+	position: absolute;
+	width: 360px;
+	height: 48px;
+	left: 460px;
+	top: 1712px;
+	overflow: visible;
+}
+#Area_cc {
+	fill: rgba(1,11,46,1);
+	stroke: rgba(62,62,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Area_cc {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#MORE_cd {
+	left: 152.41px;
+	top: 15.885px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#ACCESS {
+	left: 548px;
+	top: 1821px;
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: BIZ UDPMincho;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(1,11,46,1);
+}
+#n_1_cf {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 452px;
+	height: 331px;
+	left: 414px;
+	top: 1899px;
+	overflow: hidden;
+}
+#n_1_cg {
+	position: absolute;
+	width: 502px;
+	height: 367px;
+	left: -25px;
+	top: -18px;
+	overflow: visible;
+}
+#n_4-XXX-X___03-XXXX-XXXX___100 {
+	left: 389px;
+	top: 2257px;
+	position: absolute;
+	overflow: visible;
+	width: 503px;
+	height: 255px;
+	line-height: 23px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(1,11,46,1);
+}
+#Header {
+	position: absolute;
+	width: 1280px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Back {
+	fill: rgba(255,255,255,1);
+}
+.Back {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 84px;
+	left: 0px;
+	top: 0px;
+}
+#logo {
+	position: absolute;
+	width: 181.68px;
+	height: 26.026px;
+	left: 128px;
+	top: 27px;
+	overflow: visible;
+}
+#n_2_cl {
+	position: absolute;
+	width: 54.961px;
+	height: 9.284px;
+	left: 0px;
+	top: 8.922px;
+	overflow: visible;
+}
+#n_1_cm {
+	position: absolute;
+	width: 54.961px;
+	height: 9.284px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_1_cn {
+	fill: rgba(1,11,46,1);
+}
+.n_1_cn {
+	overflow: visible;
+	position: absolute;
+	width: 5.884px;
+	height: 9.241px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_2_co {
+	fill: rgba(1,11,46,1);
+}
+.n_2_co {
+	overflow: visible;
+	position: absolute;
+	width: 9.176px;
+	height: 9.026px;
+	left: 9.199px;
+	top: 0.048px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_3_cp {
+	fill: rgba(1,11,46,1);
+}
+.n_3_cp {
+	overflow: visible;
+	position: absolute;
+	width: 7.63px;
+	height: 8.895px;
+	left: 21.366px;
+	top: 0.18px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_4 {
+	fill: rgba(1,11,46,1);
+}
+.n_4 {
+	overflow: visible;
+	position: absolute;
+	width: 9.697px;
+	height: 9.229px;
+	left: 32.474px;
+	top: 0.009px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_5 {
+	fill: rgba(1,11,46,1);
+}
+.n_5 {
+	overflow: visible;
+	position: absolute;
+	width: 9.721px;
+	height: 9.103px;
+	left: 45.239px;
+	top: 0.18px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_3_cs {
+	position: absolute;
+	width: 114.208px;
+	height: 26.026px;
+	left: 67.472px;
+	top: 0px;
+	overflow: visible;
+}
+#n_6 {
+	fill: rgba(1,11,46,1);
+}
+.n_6 {
+	overflow: visible;
+	position: absolute;
+	width: 19.902px;
+	height: 25.299px;
+	left: 0px;
+	top: 0.103px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_7 {
+	fill: rgba(1,11,46,1);
+}
+.n_7 {
+	overflow: visible;
+	position: absolute;
+	width: 12.644px;
+	height: 15.849px;
+	left: 28.203px;
+	top: 9.567px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_8 {
+	fill: rgba(1,11,46,1);
+}
+.n_8 {
+	overflow: visible;
+	position: absolute;
+	width: 8.203px;
+	height: 25.407px;
+	left: 49.132px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_9 {
+	fill: rgba(1,11,46,1);
+}
+.n_9 {
+	overflow: visible;
+	position: absolute;
+	width: 9.902px;
+	height: 16.466px;
+	left: 67.218px;
+	top: 9.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_10 {
+	fill: rgba(1,11,46,1);
+}
+.n_10 {
+	overflow: visible;
+	position: absolute;
+	width: 28.779px;
+	height: 15.849px;
+	left: 85.43px;
+	top: 9.559px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#HAIR_STYLE_cy {
+	left: 661px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -12px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(1,11,46,1);
+}
+#NEWS_cz {
+	left: 795.2px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -12px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(1,11,46,1);
+}
+#MENU_c {
+	left: 901px;
+	top: 34px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	line-height: 40px;
+	margin-top: -12px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(1,11,46,1);
+}
+#Group_c {
+	position: absolute;
+	width: 144px;
+	height: 48px;
+	left: 1008px;
+	top: 20px;
+	overflow: visible;
+}
+#Area_c {
+	fill: rgba(1,11,46,1);
+	stroke: rgba(62,62,62,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Area_c {
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Text_c {
+	left: 23.79px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Noto Sans CJK JP;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
